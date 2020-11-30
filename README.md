@@ -10,4 +10,4 @@ Loving coding and solving problem questions has been one thing for me but i had 
 
 I had created another amfoss tasks repository before this but faced some issues with it so i had delete it and make another and re-upload things.
 
-I have not completed all my tasks but i did as much as i could or found more interesting than others. I tried doing each task but could not complete all of them.
+I have not completed all my tasks but i did as much as i could or found more interesting than others. I tried doing each task but could not complete all of them..
